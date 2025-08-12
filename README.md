@@ -1,4 +1,4 @@
-Mobile Manufacturer Data Analysis – Advanced SQL Case Study
+# Mobile Manufacturer Data Analysis – Advanced SQL Case Study
 
 Description:
 This project analyzes cellphone sales data using advanced SQL queries to answer 10 real-world business questions.
